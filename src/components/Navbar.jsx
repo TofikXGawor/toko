@@ -40,10 +40,10 @@ function Navbar({ changeTheme, currentTheme }) {
                 <a href="#"> Home</a>
               </li>
               <li>
-                <a href="#"> Landings</a>
+                <a href="#"> tofik</a>
               </li>
               <li>
-                <a href="#"> Pages</a>
+                <a href="#"> tofik</a>
               </li>
               <li>
                 <a href="#"> Docs</a>
