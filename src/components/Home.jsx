@@ -6,7 +6,7 @@ function Home() {
     <div className="home">
       <div className="container mx-3 py-3">
         <div className="title-container">
-          <h2>Tofik </h2>
+          <h2>Selamat Datang Di Wililulu</h2>
           <div className="input-container">
             <input type="text" placeholder="I want to buy..." />
             <div className="icon">
